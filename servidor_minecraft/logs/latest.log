@@ -1,62 +1,60 @@
-[18Oct2024 19:01:07.105] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 45.2.0, --fml.mcVersion, 1.19.4, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230314.122934]
-[18Oct2024 19:01:07.109] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[18Oct2024 19:01:07.483] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Last-Craft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[18Oct2024 19:01:07.820] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Last-Craft/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.4-45.2.0/fmlcore-1.19.4-45.2.0.jar is missing mods.toml file
-[18Oct2024 19:01:07.824] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Last-Craft/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.4-45.2.0/javafmllanguage-1.19.4-45.2.0.jar is missing mods.toml file
-[18Oct2024 19:01:07.828] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Last-Craft/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.4-45.2.0/lowcodelanguage-1.19.4-45.2.0.jar is missing mods.toml file
-[18Oct2024 19:01:07.831] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Last-Craft/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.4-45.2.0/mclanguage-1.19.4-45.2.0.jar is missing mods.toml file
-[18Oct2024 19:01:08.057] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
-[18Oct2024 19:01:10.481] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[18Oct2024 19:01:10.560] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[18Oct2024 19:01:13.166] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[18Oct2024 19:01:19.383] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 45.2.0, for MC 1.19.4 with MCP 20230314.122934
-[18Oct2024 19:01:19.384] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v45.2.0 Initialized
-[18Oct2024 19:01:21.958] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
-[18Oct2024 19:01:21.968] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[18Oct2024 19:01:21.969] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[18Oct2024 19:01:21.970] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[18Oct2024 19:01:21.971] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[18Oct2024 19:01:21.973] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[18Oct2024 19:01:21.976] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[18Oct2024 19:01:24.416] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18Oct2024 19:01:24.520] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
-cpm (version 0.6.19a -> MISSING)
-cpmpvc (version 1.0.0 -> MISSING)
+[18Oct2024 19:59:33.816] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 45.2.0, --fml.mcVersion, 1.19.4, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230314.122934]
+[18Oct2024 19:59:33.819] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[18Oct2024 19:59:34.163] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Last-Craft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[18Oct2024 19:59:34.567] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Last-Craft/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.4-45.2.0/fmlcore-1.19.4-45.2.0.jar is missing mods.toml file
+[18Oct2024 19:59:34.568] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Last-Craft/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.4-45.2.0/javafmllanguage-1.19.4-45.2.0.jar is missing mods.toml file
+[18Oct2024 19:59:34.570] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Last-Craft/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.4-45.2.0/lowcodelanguage-1.19.4-45.2.0.jar is missing mods.toml file
+[18Oct2024 19:59:34.571] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Last-Craft/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.4-45.2.0/mclanguage-1.19.4-45.2.0.jar is missing mods.toml file
+[18Oct2024 19:59:34.747] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[18Oct2024 19:59:36.962] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[18Oct2024 19:59:37.056] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[18Oct2024 19:59:39.144] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[18Oct2024 19:59:45.479] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 45.2.0, for MC 1.19.4 with MCP 20230314.122934
+[18Oct2024 19:59:45.480] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v45.2.0 Initialized
+[18Oct2024 19:59:48.492] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[18Oct2024 19:59:48.493] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[18Oct2024 19:59:48.494] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[18Oct2024 19:59:48.495] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[18Oct2024 19:59:48.496] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[18Oct2024 19:59:48.498] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[18Oct2024 19:59:48.556] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[18Oct2024 19:59:49.442] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre35 Target: 7.0.0-pre35
+[18Oct2024 19:59:49.442] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[18Oct2024 19:59:49.560] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 45.2.0 Target: 45.3.0
+[18Oct2024 19:59:49.560] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[18Oct2024 19:59:49.622] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA_OUTDATED Current: 1.14.7 Target: 2.0.2
+[18Oct2024 19:59:49.622] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[18Oct2024 19:59:49.726] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.11 Target: null
+[18Oct2024 19:59:49.729] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[18Oct2024 19:59:49.772] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 8.4.17 Target: 8.4.20
+[18Oct2024 19:59:50.993] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18Oct2024 19:59:51.164] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
+plasmovoice (version 2.0.10 -> MISSING)
 Things may not work well.
-[18Oct2024 19:01:25.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre35 Target: 7.0.0-pre35
-[18Oct2024 19:01:25.209] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[18Oct2024 19:01:25.356] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 45.2.0 Target: 45.3.0
-[18Oct2024 19:01:25.357] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
-[18Oct2024 19:01:25.405] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA_OUTDATED Current: 1.14.7 Target: 2.0.2
-[18Oct2024 19:01:25.406] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[18Oct2024 19:01:25.507] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.11 Target: null
-[18Oct2024 19:01:25.508] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[18Oct2024 19:01:25.549] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 8.4.17 Target: 8.4.20
-[18Oct2024 19:01:26.170] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Last-Craft/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23127!/assets/.mcassetsroot' uses unexpected schema
-[18Oct2024 19:01:26.171] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Last-Craft/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23127!/data/.mcassetsroot' uses unexpected schema
-[18Oct2024 19:01:26.229] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:cpm
-[18Oct2024 19:01:26.229] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:cpmpvc
-[18Oct2024 19:01:27.960] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:cherry_log_top_slab_recept
+[18Oct2024 19:59:52.444] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Last-Craft/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23125!/assets/.mcassetsroot' uses unexpected schema
+[18Oct2024 19:59:52.445] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Last-Craft/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23125!/data/.mcassetsroot' uses unexpected schema
+[18Oct2024 19:59:52.518] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:plasmovoice
+[18Oct2024 19:59:54.400] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:cherry_log_top_slab_recept
 com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:215) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.19.4-45.2.0-universal.jar%23132!/:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:142) ~[forge-1.19.4-45.2.0-universal.jar%23132!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:190) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.19.4-45.2.0-universal.jar%23132!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:215) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.19.4-45.2.0-universal.jar%23130!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:142) ~[forge-1.19.4-45.2.0-universal.jar%23130!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:190) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.19.4-45.2.0-universal.jar%23130!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:770) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:759) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:770) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:759) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
 	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
 	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
 	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.4-45.2.0.jar%2367!/:?]
@@ -68,27 +66,27 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[18Oct2024 19:01:28.006] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:recept_182
+[18Oct2024 19:59:54.433] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:recept_182
 com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:215) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.19.4-45.2.0-universal.jar%23132!/:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:142) ~[forge-1.19.4-45.2.0-universal.jar%23132!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:190) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.19.4-45.2.0-universal.jar%23132!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:215) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.19.4-45.2.0-universal.jar%23130!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:142) ~[forge-1.19.4-45.2.0-universal.jar%23130!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:190) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.19.4-45.2.0-universal.jar%23130!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:770) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:759) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:770) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:759) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
 	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
 	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
 	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.4-45.2.0.jar%2367!/:?]
@@ -100,27 +98,27 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[18Oct2024 19:01:28.009] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:recept_183
+[18Oct2024 19:59:54.436] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:recept_183
 com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:215) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.19.4-45.2.0-universal.jar%23132!/:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:142) ~[forge-1.19.4-45.2.0-universal.jar%23132!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:190) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.19.4-45.2.0-universal.jar%23132!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:215) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.19.4-45.2.0-universal.jar%23130!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:142) ~[forge-1.19.4-45.2.0-universal.jar%23130!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:190) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.19.4-45.2.0-universal.jar%23130!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:770) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:759) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:770) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:759) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
 	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
 	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
 	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.4-45.2.0.jar%2367!/:?]
@@ -132,27 +130,27 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[18Oct2024 19:01:28.012] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:chiseled_book_shelf_slab_recept
+[18Oct2024 19:59:54.438] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:chiseled_book_shelf_slab_recept
 com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:215) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.19.4-45.2.0-universal.jar%23132!/:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:142) ~[forge-1.19.4-45.2.0-universal.jar%23132!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:190) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.19.4-45.2.0-universal.jar%23132!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:215) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.19.4-45.2.0-universal.jar%23130!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:142) ~[forge-1.19.4-45.2.0-universal.jar%23130!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:190) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.19.4-45.2.0-universal.jar%23130!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:770) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:759) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:770) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:759) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
 	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
 	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
 	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.4-45.2.0.jar%2367!/:?]
@@ -164,27 +162,27 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[18Oct2024 19:01:28.022] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:recept_166
+[18Oct2024 19:59:54.441] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:recept_166
 com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:215) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.19.4-45.2.0-universal.jar%23132!/:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:142) ~[forge-1.19.4-45.2.0-universal.jar%23132!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:190) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.19.4-45.2.0-universal.jar%23132!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:215) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.19.4-45.2.0-universal.jar%23130!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:142) ~[forge-1.19.4-45.2.0-universal.jar%23130!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:190) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.19.4-45.2.0-universal.jar%23130!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:770) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:759) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:770) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:759) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
 	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
 	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
 	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.4-45.2.0.jar%2367!/:?]
@@ -196,27 +194,27 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[18Oct2024 19:01:28.024] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:recept_167
+[18Oct2024 19:59:54.443] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:recept_167
 com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:215) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.19.4-45.2.0-universal.jar%23132!/:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:142) ~[forge-1.19.4-45.2.0-universal.jar%23132!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:190) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.19.4-45.2.0-universal.jar%23132!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:215) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.19.4-45.2.0-universal.jar%23130!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:142) ~[forge-1.19.4-45.2.0-universal.jar%23130!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:190) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.19.4-45.2.0-universal.jar%23130!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:770) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:759) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:770) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:759) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
 	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
 	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
 	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.4-45.2.0.jar%2367!/:?]
@@ -228,29 +226,29 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[18Oct2024 19:01:28.042] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:recept_57
+[18Oct2024 19:59:54.454] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:recept_57
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:frosted_ice'
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:215) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.19.4-45.2.0-universal.jar%23132!/:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:142) ~[forge-1.19.4-45.2.0-universal.jar%23132!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:190) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.19.4-45.2.0-universal.jar%23132!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:215) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.19.4-45.2.0-universal.jar%23130!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:142) ~[forge-1.19.4-45.2.0-universal.jar%23130!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:190) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.19.4-45.2.0-universal.jar%23130!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:770) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:759) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:770) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:759) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
 	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
 	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
 	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.4-45.2.0.jar%2367!/:?]
@@ -262,27 +260,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:frosted_ice'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[18Oct2024 19:01:28.056] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:cherry_log_slab_recept
+[18Oct2024 19:59:54.461] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:cherry_log_slab_recept
 com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:215) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.19.4-45.2.0-universal.jar%23132!/:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:142) ~[forge-1.19.4-45.2.0-universal.jar%23132!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:190) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.19.4-45.2.0-universal.jar%23132!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:215) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.19.4-45.2.0-universal.jar%23130!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:142) ~[forge-1.19.4-45.2.0-universal.jar%23130!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:190) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.19.4-45.2.0-universal.jar%23130!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:770) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:759) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.19.4-20230314.122934-srg.jar%23127!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:770) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:759) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.19.4-20230314.122934-srg.jar%23125!/:?]
 	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
 	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
 	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.4-45.2.0.jar%2367!/:?]
@@ -294,126 +292,72 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[18Oct2024 19:01:28.108] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
-[18Oct2024 19:01:28.778] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3127 advancements
-[18Oct2024 19:01:29.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.4
-[18Oct2024 19:01:29.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[18Oct2024 19:01:29.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[18Oct2024 19:01:29.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[18Oct2024 19:01:30.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[18Oct2024 19:01:30.135] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[18Oct2024 19:01:30.227] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18Oct2024 19:01:30.228] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[18Oct2024 19:01:30.228] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18Oct2024 19:01:30.229] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[18Oct2024 19:01:30.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[18Oct2024 19:01:32.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[18Oct2024 19:01:36.926] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Oct2024 19:01:36.927] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Oct2024 19:01:36.929] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Oct2024 19:01:36.930] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Oct2024 19:01:36.932] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Oct2024 19:01:36.935] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Oct2024 19:01:36.936] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Oct2024 19:01:36.937] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Oct2024 19:01:36.939] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Oct2024 19:01:37.430] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[18Oct2024 19:01:38.009] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5080 ms
-[18Oct2024 19:01:38.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.764s)! For help, type "help"
-[18Oct2024 19:01:38.055] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[18Oct2024 19:01:38.227] [Server thread/INFO] [PlasmoVoice/]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
-[18Oct2024 19:03:15.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Towllino[/100.114.73.128:59556] logged in with entity id 274 at (83.5, 64.0, -21.5)
-[18Oct2024 19:03:15.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Towllino joined the game
-[18Oct2024 19:04:55.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola?
-[18Oct2024 19:05:13.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] towllino?
-[18Oct2024 19:05:26.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> hola
-[18Oct2024 19:05:30.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> pase
-[18Oct2024 19:05:34.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> op
-[18Oct2024 19:05:48.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] skibidi dop dop dop yes yes
-[18Oct2024 19:05:52.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] soy loan
-[18Oct2024 19:06:32.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> mandaaaaaa aa a a a aop
-[18Oct2024 19:06:39.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Towllino a server operator
-[18Oct2024 19:06:40.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[18Oct2024 19:06:40.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sexo<--[HERE]
-[18Oct2024 19:06:41.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> solo somos 2 personas conectadas
-[18Oct2024 19:06:43.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] sexo
-[18Oct2024 19:06:47.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Killed Towllino]
-[18Oct2024 19:10:41.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Creative Mode]
-[18Oct2024 19:10:42.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Survival Mode]
-[18Oct2024 19:10:44.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Creative Mode]
-[18Oct2024 19:10:46.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Spectator Mode]
-[18Oct2024 19:10:51.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Creative Mode]
-[18Oct2024 19:10:59.915] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Towllino" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=83, y=64, z=-23}] too quickly!
-[18Oct2024 19:11:05.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> valen
-[18Oct2024 19:11:08.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] No.
-[18Oct2024 19:11:14.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] No lo abras
-[18Oct2024 19:11:21.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> cual es el codigo del cofre?!??!?!
-[18Oct2024 19:11:28.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Secreto
-[18Oct2024 19:11:32.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> entonces lo rompo
-[18Oct2024 19:11:33.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[18Oct2024 19:11:33.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Va a ser el primer desafio<--[HERE]
-[18Oct2024 19:11:37.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] espera
-[18Oct2024 19:11:43.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Es el primer desafio
-[18Oct2024 19:11:48.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> valen
-[18Oct2024 19:11:53.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> entende
-[18Oct2024 19:11:54.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> q
-[18Oct2024 19:11:57.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> hay
-[18Oct2024 19:12:02.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> 20 errores
-[18Oct2024 19:12:12.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> cada personas
-[18Oct2024 19:12:17.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[18Oct2024 19:12:17.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigo<--[HERE]
-[18Oct2024 19:12:24.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] amigo es instalar algo iniciar sesion
-[18Oct2024 19:12:36.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya voy, esperenme
-[18Oct2024 19:18:07.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> ok
-[18Oct2024 19:20:49.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> no hay nadie conectado @valter
-[18Oct2024 19:21:01.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Spectator Mode]
-[18Oct2024 19:34:56.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Creative Mode]
-[18Oct2024 19:35:59.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya casi voy
-[18Oct2024 19:37:01.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> valen
-[18Oct2024 19:37:03.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> ya vi
-[18Oct2024 19:37:10.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> lo que hay dentro del cofre
-[18Oct2024 19:37:24.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no mostraste la contraseña, no?
-[18Oct2024 19:38:02.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> no
-[18Oct2024 19:38:08.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> pero no me gusto lo que habia
-[18Oct2024 19:38:15.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> el cubo de nieve con ese nombre
-[18Oct2024 19:38:26.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] JAJAJAJAJAJAJAJAJ
-[18Oct2024 19:38:37.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Spectator Mode]
-[18Oct2024 19:38:44.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Adventure Mode]
-[18Oct2024 19:38:46.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Creative Mode]
-[18Oct2024 19:43:06.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Spectator Mode]
-[18Oct2024 19:43:11.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Creative Mode]
-[18Oct2024 19:47:04.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Towllino lost connection: Disconnected
-[18Oct2024 19:47:04.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Towllino left the game
-[18Oct2024 19:47:42.194] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Risecraft[/100.110.185.109:53819] logged in with entity id 4328 at (73.5, 66.0, -24.5)
-[18Oct2024 19:47:42.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft joined the game
-[18Oct2024 19:47:42.637] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Risecraft lost connection: Disconnected
-[18Oct2024 19:47:42.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft left the game
-[18Oct2024 19:47:53.950] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Towllino[/100.114.73.128:60500] logged in with entity id 4348 at (78.42708790110441, 67.98752644034151, -25.929203852468053)
-[18Oct2024 19:47:54.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Towllino joined the game
-[18Oct2024 19:48:02.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Spectator Mode]
-[18Oct2024 19:48:13.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Risecraft[/100.110.185.109:53823] logged in with entity id 4398 at (73.5, 66.0, -24.5)
-[18Oct2024 19:48:13.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft joined the game
-[18Oct2024 19:48:13.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Risecraft lost connection: Disconnected
-[18Oct2024 19:48:13.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft left the game
-[18Oct2024 19:48:23.640] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Risecraft[/100.110.185.109:53825] logged in with entity id 4400 at (73.5, 66.0, -24.5)
-[18Oct2024 19:48:23.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft joined the game
-[18Oct2024 19:48:24.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Risecraft lost connection: Disconnected
-[18Oct2024 19:48:24.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft left the game
-[18Oct2024 19:48:57.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Risecraft[/100.110.185.109:53827] logged in with entity id 4403 at (73.5, 66.0, -24.5)
-[18Oct2024 19:48:57.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft joined the game
-[18Oct2024 19:48:57.684] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Risecraft lost connection: Disconnected
-[18Oct2024 19:48:57.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft left the game
-[18Oct2024 19:49:18.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Towllino lost connection: Disconnected
-[18Oct2024 19:49:18.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Towllino left the game
-[18Oct2024 19:49:25.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Risecraft[/100.110.185.109:53830] logged in with entity id 4406 at (73.5, 66.0, -24.5)
-[18Oct2024 19:49:25.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft joined the game
-[18Oct2024 19:49:25.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Risecraft lost connection: Disconnected
-[18Oct2024 19:49:25.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft left the game
-[18Oct2024 19:49:56.337] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Risecraft[/100.110.185.109:53835] logged in with entity id 4434 at (73.5, 66.0, -24.5)
-[18Oct2024 19:49:56.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft joined the game
-[18Oct2024 19:49:56.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Risecraft lost connection: Disconnected
-[18Oct2024 19:49:56.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft left the game
-[18Oct2024 19:51:22.636] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Risecraft[/100.110.185.109:53844] logged in with entity id 4454 at (73.5, 66.0, -24.5)
-[18Oct2024 19:51:22.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft joined the game
-[18Oct2024 19:51:23.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Risecraft lost connection: Disconnected
-[18Oct2024 19:51:23.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft left the game
+[18Oct2024 19:59:54.504] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[18Oct2024 19:59:54.967] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3127 advancements
+[18Oct2024 19:59:56.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.4
+[18Oct2024 19:59:56.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[18Oct2024 19:59:56.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[18Oct2024 19:59:56.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[18Oct2024 19:59:56.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[18Oct2024 19:59:56.283] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[18Oct2024 19:59:56.374] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18Oct2024 19:59:56.375] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[18Oct2024 19:59:56.375] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18Oct2024 19:59:56.376] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[18Oct2024 19:59:56.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[18Oct2024 19:59:59.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18Oct2024 20:00:03.190] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 20:00:03.192] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 20:00:03.192] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 20:00:03.193] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 20:00:03.193] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 20:00:03.194] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 20:00:03.195] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 20:00:03.195] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 20:00:03.196] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 20:00:03.645] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[18Oct2024 20:00:04.145] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
+[18Oct2024 20:00:04.312] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5169 ms
+[18Oct2024 20:00:04.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.924s)! For help, type "help"
+[18Oct2024 20:00:04.335] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[18Oct2024 20:00:15.647] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Risecraft[/100.110.185.109:53932] logged in with entity id 260 at (73.5, 66.0, -24.5)
+[18Oct2024 20:00:15.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft joined the game
+[18Oct2024 20:00:16.315] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Risecraft lost connection: Disconnected
+[18Oct2024 20:00:16.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft left the game
+[18Oct2024 20:00:45.310] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ValterGX[/100.96.246.114:53125] logged in with entity id 266 at (83.30000001192093, 67.99323530006211, -23.538335957226703)
+[18Oct2024 20:00:45.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ValterGX joined the game
+[18Oct2024 20:01:30.761] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Towllino[/100.114.73.128:60739] logged in with entity id 384 at (82.9980325267176, 76.60128725242046, -10.072907445843573)
+[18Oct2024 20:01:30.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Towllino joined the game
+[18Oct2024 20:02:52.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Risecraft[/100.110.185.109:53958] logged in with entity id 558 at (73.5, 66.0, -24.5)
+[18Oct2024 20:02:52.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft joined the game
+[18Oct2024 20:02:52.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Risecraft lost connection: Disconnected
+[18Oct2024 20:02:52.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft left the game
+[18Oct2024 20:03:33.801] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Risecraft[/100.110.185.109:53961] logged in with entity id 657 at (73.5, 66.0, -24.5)
+[18Oct2024 20:03:33.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft joined the game
+[18Oct2024 20:03:34.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Risecraft lost connection: Disconnected
+[18Oct2024 20:03:34.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft left the game
+[18Oct2024 20:04:03.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Survival Mode]
+[18Oct2024 20:04:17.712] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Risecraft[/100.110.185.109:53971] logged in with entity id 822 at (73.5, 66.0, -24.5)
+[18Oct2024 20:04:17.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft joined the game
+[18Oct2024 20:04:18.349] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Risecraft lost connection: Disconnected
+[18Oct2024 20:04:18.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft left the game
+[18Oct2024 20:04:25.075] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41f9171c[id=<null>,name=Risecraft,properties={},legacy=false] (/100.110.185.109:53973) lost connection: Disconnected
+[18Oct2024 20:04:33.900] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7527b8d1[id=<null>,name=Risecraft,properties={},legacy=false] (/100.110.185.109:53974) lost connection: Disconnected
+[18Oct2024 20:04:38.756] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Risecraft[/100.110.185.109:53976] logged in with entity id 897 at (73.5, 66.0, -24.5)
+[18Oct2024 20:04:38.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft joined the game
+[18Oct2024 20:04:39.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Risecraft lost connection: Disconnected
+[18Oct2024 20:04:39.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft left the game
+[18Oct2024 20:04:47.152] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Risecraft[/100.110.185.109:53979] logged in with entity id 920 at (73.5, 66.0, -24.5)
+[18Oct2024 20:04:47.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft joined the game
+[18Oct2024 20:04:47.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Risecraft lost connection: Disconnected
+[18Oct2024 20:04:47.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft left the game
+[18Oct2024 20:04:53.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Creative Mode]
+[18Oct2024 20:05:06.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Risecraft[/100.110.185.109:53984] logged in with entity id 997 at (73.5, 66.0, -24.5)
+[18Oct2024 20:05:06.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft joined the game
+[18Oct2024 20:05:07.349] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Risecraft lost connection: Disconnected
+[18Oct2024 20:05:07.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft left the game
+[18Oct2024 20:06:16.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Spectator Mode]
+[18Oct2024 20:06:26.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ValterGX lost connection: Disconnected
+[18Oct2024 20:06:26.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ValterGX left the game
+[18Oct2024 20:06:56.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Towllino lost connection: Disconnected
+[18Oct2024 20:06:56.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Towllino left the game

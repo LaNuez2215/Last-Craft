@@ -323,12 +323,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/transportation/birch_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2024-10-18 18:09:15 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/brown_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-10-18 18:08:40 +0000"
@@ -368,12 +362,6 @@
   "cfm:recipes/decorations/fridge_dark": {
     "criteria": {
       "has_chest": "2024-10-18 18:08:40 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/mangrove_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2024-10-18 18:09:15 +0000"
     },
     "done": true
   },
@@ -437,21 +425,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/transportation/bamboo_security_sea_raft": {
-    "criteria": {
-      "has_keypad_chest": "2024-10-18 18:09:15 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/crimson_mail_box": {
     "criteria": {
       "has_chest": "2024-10-18 18:08:40 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/cherry_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2024-10-18 18:09:15 +0000"
     },
     "done": true
   },
@@ -563,12 +539,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/transportation/jungle_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2024-10-18 18:09:15 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/gray_cooler": {
     "criteria": {
       "has_chest": "2024-10-18 18:08:40 +0000"
@@ -590,18 +560,6 @@
   "cfm:recipes/decorations/birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-10-18 18:08:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2024-10-18 18:10:29 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/spruce_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2024-10-18 18:09:15 +0000"
     },
     "done": true
   },
@@ -632,12 +590,6 @@
   "cfm:recipes/decorations/black_cooler": {
     "criteria": {
       "has_chest": "2024-10-18 18:08:40 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/dark_oak_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2024-10-18 18:09:15 +0000"
     },
     "done": true
   },
@@ -677,21 +629,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/transportation/acacia_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2024-10-18 18:09:15 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/light_gray_cooler": {
     "criteria": {
       "has_chest": "2024-10-18 18:08:40 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/oak_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2024-10-18 18:09:15 +0000"
     },
     "done": true
   },
@@ -740,12 +680,6 @@
   "cfm:recipes/decorations/stripped_spruce_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-10-18 18:08:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2024-10-18 18:10:29 +0000"
     },
     "done": true
   },
@@ -800,6 +734,72 @@
   "cfm:recipes/decorations/stripped_warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-10-18 18:08:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/birch_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2024-10-18 18:09:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/mangrove_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2024-10-18 18:09:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/bamboo_security_sea_raft": {
+    "criteria": {
+      "has_keypad_chest": "2024-10-18 18:09:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/cherry_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2024-10-18 18:09:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/jungle_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2024-10-18 18:09:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/spruce_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2024-10-18 18:09:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/dark_oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2024-10-18 18:09:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/acacia_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2024-10-18 18:09:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2024-10-18 18:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-10-18 18:10:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-10-18 18:10:29 +0000"
     },
     "done": true
   },
