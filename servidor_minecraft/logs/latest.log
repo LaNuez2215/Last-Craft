@@ -380,3 +380,40 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 [18Oct2024 19:38:37.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Spectator Mode]
 [18Oct2024 19:38:44.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Adventure Mode]
 [18Oct2024 19:38:46.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Creative Mode]
+[18Oct2024 19:43:06.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Spectator Mode]
+[18Oct2024 19:43:11.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Creative Mode]
+[18Oct2024 19:47:04.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Towllino lost connection: Disconnected
+[18Oct2024 19:47:04.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Towllino left the game
+[18Oct2024 19:47:42.194] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Risecraft[/100.110.185.109:53819] logged in with entity id 4328 at (73.5, 66.0, -24.5)
+[18Oct2024 19:47:42.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft joined the game
+[18Oct2024 19:47:42.637] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Risecraft lost connection: Disconnected
+[18Oct2024 19:47:42.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft left the game
+[18Oct2024 19:47:53.950] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Towllino[/100.114.73.128:60500] logged in with entity id 4348 at (78.42708790110441, 67.98752644034151, -25.929203852468053)
+[18Oct2024 19:47:54.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Towllino joined the game
+[18Oct2024 19:48:02.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Spectator Mode]
+[18Oct2024 19:48:13.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Risecraft[/100.110.185.109:53823] logged in with entity id 4398 at (73.5, 66.0, -24.5)
+[18Oct2024 19:48:13.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft joined the game
+[18Oct2024 19:48:13.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Risecraft lost connection: Disconnected
+[18Oct2024 19:48:13.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft left the game
+[18Oct2024 19:48:23.640] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Risecraft[/100.110.185.109:53825] logged in with entity id 4400 at (73.5, 66.0, -24.5)
+[18Oct2024 19:48:23.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft joined the game
+[18Oct2024 19:48:24.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Risecraft lost connection: Disconnected
+[18Oct2024 19:48:24.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft left the game
+[18Oct2024 19:48:57.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Risecraft[/100.110.185.109:53827] logged in with entity id 4403 at (73.5, 66.0, -24.5)
+[18Oct2024 19:48:57.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft joined the game
+[18Oct2024 19:48:57.684] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Risecraft lost connection: Disconnected
+[18Oct2024 19:48:57.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft left the game
+[18Oct2024 19:49:18.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Towllino lost connection: Disconnected
+[18Oct2024 19:49:18.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Towllino left the game
+[18Oct2024 19:49:25.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Risecraft[/100.110.185.109:53830] logged in with entity id 4406 at (73.5, 66.0, -24.5)
+[18Oct2024 19:49:25.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft joined the game
+[18Oct2024 19:49:25.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Risecraft lost connection: Disconnected
+[18Oct2024 19:49:25.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft left the game
+[18Oct2024 19:49:56.337] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Risecraft[/100.110.185.109:53835] logged in with entity id 4434 at (73.5, 66.0, -24.5)
+[18Oct2024 19:49:56.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft joined the game
+[18Oct2024 19:49:56.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Risecraft lost connection: Disconnected
+[18Oct2024 19:49:56.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft left the game
+[18Oct2024 19:51:22.636] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Risecraft[/100.110.185.109:53844] logged in with entity id 4454 at (73.5, 66.0, -24.5)
+[18Oct2024 19:51:22.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft joined the game
+[18Oct2024 19:51:23.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Risecraft lost connection: Disconnected
+[18Oct2024 19:51:23.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Risecraft left the game
