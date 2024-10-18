@@ -1,30 +1,30 @@
-[17Oct2024 23:00:52.019] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 45.2.0, --fml.mcVersion, 1.19.4, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230314.122934]
-[17Oct2024 23:00:52.023] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[17Oct2024 23:00:52.455] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Last-Craft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[17Oct2024 23:00:52.942] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Last-Craft/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.4-45.2.0/fmlcore-1.19.4-45.2.0.jar is missing mods.toml file
-[17Oct2024 23:00:52.948] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Last-Craft/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.4-45.2.0/javafmllanguage-1.19.4-45.2.0.jar is missing mods.toml file
-[17Oct2024 23:00:52.955] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Last-Craft/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.4-45.2.0/lowcodelanguage-1.19.4-45.2.0.jar is missing mods.toml file
-[17Oct2024 23:00:52.958] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Last-Craft/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.4-45.2.0/mclanguage-1.19.4-45.2.0.jar is missing mods.toml file
-[17Oct2024 23:00:53.234] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
-[17Oct2024 23:00:57.632] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[17Oct2024 23:00:57.750] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[17Oct2024 23:01:02.154] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[17Oct2024 23:01:13.564] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 45.2.0, for MC 1.19.4 with MCP 20230314.122934
-[17Oct2024 23:01:13.569] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v45.2.0 Initialized
-[17Oct2024 23:01:18.470] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models Initialized
-[17Oct2024 23:01:18.901] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Starting version check at https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/version-check.json
-[17Oct2024 23:01:19.015] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[17Oct2024 23:01:19.015] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[17Oct2024 23:01:19.021] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[17Oct2024 23:01:19.021] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[17Oct2024 23:01:19.025] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[17Oct2024 23:01:19.027] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[17Oct2024 23:01:19.064] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models API initialized: Loaded plugins: (1)
+[18Oct2024 00:00:00.685] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 45.2.0, --fml.mcVersion, 1.19.4, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230314.122934]
+[18Oct2024 00:00:00.692] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[18Oct2024 00:00:01.112] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Last-Craft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[18Oct2024 00:00:01.587] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Last-Craft/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.4-45.2.0/fmlcore-1.19.4-45.2.0.jar is missing mods.toml file
+[18Oct2024 00:00:01.590] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Last-Craft/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.4-45.2.0/javafmllanguage-1.19.4-45.2.0.jar is missing mods.toml file
+[18Oct2024 00:00:01.591] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Last-Craft/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.4-45.2.0/lowcodelanguage-1.19.4-45.2.0.jar is missing mods.toml file
+[18Oct2024 00:00:01.594] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Last-Craft/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.4-45.2.0/mclanguage-1.19.4-45.2.0.jar is missing mods.toml file
+[18Oct2024 00:00:01.908] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[18Oct2024 00:00:05.879] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[18Oct2024 00:00:05.995] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[18Oct2024 00:00:10.438] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[18Oct2024 00:00:22.643] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 45.2.0, for MC 1.19.4 with MCP 20230314.122934
+[18Oct2024 00:00:22.646] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v45.2.0 Initialized
+[18Oct2024 00:00:28.022] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models Initialized
+[18Oct2024 00:00:28.432] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Starting version check at https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/version-check.json
+[18Oct2024 00:00:28.479] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[18Oct2024 00:00:28.480] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[18Oct2024 00:00:28.481] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[18Oct2024 00:00:28.481] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[18Oct2024 00:00:28.501] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[18Oct2024 00:00:28.504] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[18Oct2024 00:00:28.535] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models API initialized: Loaded plugins: (1)
 	cpmpvc
 
-[17Oct2024 23:01:20.063] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Found status: BETA Current: 0.6.19a Target: 0.6.19a
-[17Oct2024 23:01:20.066] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
-[17Oct2024 23:01:20.241] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[18Oct2024 00:00:29.280] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Found status: BETA Current: 0.6.19a Target: 0.6.19a
+[18Oct2024 00:00:29.285] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[18Oct2024 00:00:29.438] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2370!/:?]
@@ -39,18 +39,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2370!/:?]
 	... 6 more
-[17Oct2024 23:01:20.242] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[17Oct2024 23:01:20.502] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 45.2.0 Target: 45.3.0
-[17Oct2024 23:01:20.503] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
-[17Oct2024 23:01:20.514] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA_OUTDATED Current: 1.14.7 Target: 2.0.2
-[17Oct2024 23:01:20.514] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[17Oct2024 23:01:20.670] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.11 Target: null
-[17Oct2024 23:01:20.672] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[17Oct2024 23:01:20.730] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 8.4.17 Target: 8.4.20
-[17Oct2024 23:01:25.201] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17Oct2024 23:01:27.892] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Last-Craft/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23131!/assets/.mcassetsroot' uses unexpected schema
-[17Oct2024 23:01:27.894] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Last-Craft/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23131!/data/.mcassetsroot' uses unexpected schema
-[17Oct2024 23:01:31.791] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:cherry_log_top_slab_recept
+[18Oct2024 00:00:29.443] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[18Oct2024 00:00:29.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 45.2.0 Target: 45.3.0
+[18Oct2024 00:00:29.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[18Oct2024 00:00:29.654] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA_OUTDATED Current: 1.14.7 Target: 2.0.2
+[18Oct2024 00:00:29.654] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[18Oct2024 00:00:29.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.11 Target: null
+[18Oct2024 00:00:29.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[18Oct2024 00:00:29.808] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 8.4.17 Target: 8.4.20
+[18Oct2024 00:00:33.158] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18Oct2024 00:00:35.551] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Last-Craft/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23131!/assets/.mcassetsroot' uses unexpected schema
+[18Oct2024 00:00:35.555] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Last-Craft/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23131!/data/.mcassetsroot' uses unexpected schema
+[18Oct2024 00:00:38.948] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:cherry_log_top_slab_recept
 com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.19.4-20230314.122934-srg.jar%23131!/:?]
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:215) ~[server-1.19.4-20230314.122934-srg.jar%23131!/:?]
@@ -82,7 +82,7 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17Oct2024 23:01:31.864] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:recept_182
+[18Oct2024 00:00:39.007] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:recept_182
 com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.19.4-20230314.122934-srg.jar%23131!/:?]
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:215) ~[server-1.19.4-20230314.122934-srg.jar%23131!/:?]
@@ -114,7 +114,7 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17Oct2024 23:01:31.872] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:recept_183
+[18Oct2024 00:00:39.009] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:recept_183
 com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.19.4-20230314.122934-srg.jar%23131!/:?]
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:215) ~[server-1.19.4-20230314.122934-srg.jar%23131!/:?]
@@ -146,7 +146,7 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17Oct2024 23:01:31.880] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:chiseled_book_shelf_slab_recept
+[18Oct2024 00:00:39.011] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:chiseled_book_shelf_slab_recept
 com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.19.4-20230314.122934-srg.jar%23131!/:?]
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:215) ~[server-1.19.4-20230314.122934-srg.jar%23131!/:?]
@@ -178,7 +178,7 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17Oct2024 23:01:31.888] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:recept_166
+[18Oct2024 00:00:39.018] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:recept_166
 com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.19.4-20230314.122934-srg.jar%23131!/:?]
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:215) ~[server-1.19.4-20230314.122934-srg.jar%23131!/:?]
@@ -210,7 +210,7 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17Oct2024 23:01:31.894] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:recept_167
+[18Oct2024 00:00:39.024] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:recept_167
 com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.19.4-20230314.122934-srg.jar%23131!/:?]
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:215) ~[server-1.19.4-20230314.122934-srg.jar%23131!/:?]
@@ -242,7 +242,7 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17Oct2024 23:01:31.924] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:recept_57
+[18Oct2024 00:00:39.049] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:recept_57
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:frosted_ice'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.19.4-20230314.122934-srg.jar%23131!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -276,7 +276,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:frosted_ice'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17Oct2024 23:01:31.950] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:cherry_log_slab_recept
+[18Oct2024 00:00:39.067] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mysticrift_more_slabs_variants:cherry_log_slab_recept
 com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.19.4-20230314.122934-srg.jar%23131!/:?]
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:215) ~[server-1.19.4-20230314.122934-srg.jar%23131!/:?]
@@ -308,81 +308,78 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17Oct2024 23:01:32.037] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
-[17Oct2024 23:01:33.093] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3127 advancements
-[17Oct2024 23:01:34.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.4
-[17Oct2024 23:01:34.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[17Oct2024 23:01:34.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[17Oct2024 23:01:34.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[17Oct2024 23:01:34.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[17Oct2024 23:01:35.031] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[17Oct2024 23:01:35.268] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17Oct2024 23:01:35.268] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[17Oct2024 23:01:35.269] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17Oct2024 23:01:35.269] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[17Oct2024 23:01:35.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[17Oct2024 23:01:44.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[17Oct2024 23:01:51.904] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Oct2024 23:01:51.905] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Oct2024 23:01:51.905] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Oct2024 23:01:51.906] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Oct2024 23:01:51.912] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Oct2024 23:01:51.914] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Oct2024 23:01:51.918] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Oct2024 23:01:51.922] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Oct2024 23:01:51.932] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Oct2024 23:01:51.936] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Oct2024 23:01:51.941] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Oct2024 23:01:51.945] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Oct2024 23:01:51.948] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Oct2024 23:01:51.953] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Oct2024 23:01:51.956] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Oct2024 23:01:51.959] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Oct2024 23:01:52.135] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Oct2024 23:01:52.634] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Oct2024 23:01:53.133] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Oct2024 23:01:53.635] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Oct2024 23:01:54.199] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 57%
-[17Oct2024 23:01:54.824] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10691 ms
-[17Oct2024 23:01:54.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (19.539s)! For help, type "help"
-[17Oct2024 23:01:54.865] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[17Oct2024 23:01:55.174] [Server thread/INFO] [PlasmoVoice/]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
-[17Oct2024 23:02:07.144] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@35e917da[id=<null>,name=LaNuez2215,properties={},legacy=false] (/100.82.71.51:58793) lost connection: Disconnected
-[17Oct2024 23:02:18.166] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LaNuez2215[/100.82.71.51:58801] logged in with entity id 321 at (81.97321998787704, 69.0, -14.904362706616638)
-[17Oct2024 23:02:18.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaNuez2215 joined the game
-[17Oct2024 23:03:42.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made LaNuez2215 a server operator
-[17Oct2024 23:03:49.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaNuez2215: Set own game mode to Creative Mode]
-[17Oct2024 23:03:53.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaNuez2215: Set the time to 1000]
-[17Oct2024 23:10:30.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaNuez2215: Set LaNuez2215's skin]
-[17Oct2024 23:10:44.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaNuez2215: Set LaNuez2215's skin]
-[17Oct2024 23:11:59.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaNuez2215: Set own game mode to Survival Mode]
-[17Oct2024 23:12:05.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaNuez2215: Set own game mode to Creative Mode]
-[17Oct2024 23:12:11.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaNuez2215: Set own game mode to Survival Mode]
-[17Oct2024 23:12:12.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaNuez2215 fell from a high place
-[17Oct2024 23:12:27.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaNuez2215: Set own game mode to Creative Mode]
-[17Oct2024 23:13:43.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaNuez2215 has made the advancement [It Bites]
-[17Oct2024 23:13:49.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaNuez2215 has made the advancement [World of illusion]
-[17Oct2024 23:13:58.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaNuez2215 has made the advancement [I was here, i lived, i..]
-[17Oct2024 23:15:21.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaNuez2215 has made the advancement [Monster Hunter]
-[17Oct2024 23:16:02.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaNuez2215: Created new objective [Vidas]]
-[17Oct2024 23:16:17.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaNuez2215: Set display slot list to show objective Vidas]
-[17Oct2024 23:16:20.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LaNuez2215 lost connection: Disconnected
-[17Oct2024 23:16:20.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaNuez2215 left the game
-[17Oct2024 23:16:28.628] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LaNuez2215[/100.82.71.51:58885] logged in with entity id 2774 at (89.86823515276022, 69.49390748022948, -1.4780424349646746)
-[17Oct2024 23:16:28.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaNuez2215 joined the game
-[17Oct2024 23:16:55.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaNuez2215: Set own game mode to Survival Mode]
-[17Oct2024 23:17:04.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaNuez2215: Set own game mode to Creative Mode]
-[17Oct2024 23:24:12.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaNuez2215 has made the advancement [Stone Age]
-[17Oct2024 23:38:06.132] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LaNuez2215 lost connection: Disconnected
-[17Oct2024 23:38:06.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaNuez2215 left the game
-[17Oct2024 23:38:12.689] [Server thread/INFO] [PlasmoVoice/]: UDP server is stopped
-[17Oct2024 23:38:12.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[17Oct2024 23:38:12.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[17Oct2024 23:38:12.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[17Oct2024 23:38:14.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17Oct2024 23:38:26.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17Oct2024 23:38:26.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17Oct2024 23:38:26.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17Oct2024 23:38:26.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17Oct2024 23:38:26.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17Oct2024 23:38:26.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Oct2024 00:00:39.229] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[18Oct2024 00:00:40.156] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3127 advancements
+[18Oct2024 00:00:41.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.4
+[18Oct2024 00:00:41.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[18Oct2024 00:00:41.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[18Oct2024 00:00:41.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[18Oct2024 00:00:41.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[18Oct2024 00:00:42.033] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[18Oct2024 00:00:42.203] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18Oct2024 00:00:42.203] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[18Oct2024 00:00:42.204] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18Oct2024 00:00:42.204] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[18Oct2024 00:00:42.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[18Oct2024 00:00:52.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18Oct2024 00:01:01.319] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 00:01:01.320] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 00:01:01.321] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 00:01:01.321] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 00:01:01.322] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 00:01:01.322] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 00:01:01.323] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 00:01:01.324] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 00:01:01.324] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 00:01:01.329] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 00:01:01.330] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 00:01:01.331] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 00:01:01.332] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 00:01:01.338] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 00:01:01.343] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 00:01:01.344] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 00:01:01.346] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 00:01:01.349] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 00:01:01.353] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 00:01:01.591] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 00:01:02.091] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Oct2024 00:01:02.602] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[18Oct2024 00:01:03.124] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
+[18Oct2024 00:01:03.166] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18Oct2024 00:01:03.657] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11567 ms
+[18Oct2024 00:01:03.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (21.430s)! For help, type "help"
+[18Oct2024 00:01:03.699] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[18Oct2024 00:01:03.902] [Server thread/INFO] [PlasmoVoice/]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
+[18Oct2024 00:01:26.106] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LaNuez2215[/100.82.71.51:59092] logged in with entity id 244 at (128.15989910261035, 80.3629423755358, -10.387377584600753)
+[18Oct2024 00:01:26.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaNuez2215 joined the game
+[18Oct2024 00:01:40.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaNuez2215: Made valtergx a server operator]
+[18Oct2024 00:17:25.727] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ValterGX[/100.96.246.114:50916] logged in with entity id 3041 at (80.5, 69.0, -11.5)
+[18Oct2024 00:17:25.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ValterGX joined the game
+[18Oct2024 00:19:10.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ValterGX lost connection: Timed out
+[18Oct2024 00:19:10.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ValterGX left the game
+[18Oct2024 00:19:10.971] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Oct2024 00:19:44.235] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ValterGX[/100.96.246.114:51000] logged in with entity id 3474 at (80.5, 69.0, -11.5)
+[18Oct2024 00:19:44.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ValterGX joined the game
+[18Oct2024 00:19:56.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ValterGX was slain by Zombie
+[18Oct2024 00:20:16.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ValterGX was slain by Zombie
+[18Oct2024 00:20:35.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaNuez2215: Made ValterGX a server operator]
+[18Oct2024 00:20:49.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ValterGX was slain by Zombie
+[18Oct2024 00:20:57.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ValterGX: Set own game mode to Creative Mode]
+[18Oct2024 00:22:04.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ValterGX: Teleported ValterGX to LaNuez2215]
+[18Oct2024 00:24:43.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ValterGX has made the advancement [Stone Age]
+[18Oct2024 00:25:02.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaNuez2215: Set the time to 1000]
+[18Oct2024 00:26:05.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaNuez2215: Teleported ValterGX to LaNuez2215]
+[18Oct2024 00:29:08.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaNuez2215: Created new objective [muertes]]
+[18Oct2024 00:31:08.413] [Server thread/INFO] [PlasmoVoice/]: UDP server is stopped
+[18Oct2024 00:31:08.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Oct2024 00:31:08.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Oct2024 00:31:08.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LaNuez2215 lost connection: Server closed
+[18Oct2024 00:31:08.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaNuez2215 left the game
+[18Oct2024 00:31:08.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Oct2024 00:31:11.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Oct2024 00:31:22.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Oct2024 00:31:22.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Oct2024 00:31:22.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Oct2024 00:31:22.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Oct2024 00:31:22.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Oct2024 00:31:22.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
