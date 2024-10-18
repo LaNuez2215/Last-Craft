@@ -336,3 +336,18 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 [18Oct2024 18:06:14.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ValterGX: Set own game mode to Creative Mode]
 [18Oct2024 18:08:21.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ValterGX> hola
 [18Oct2024 18:08:24.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ValterGX> sexo
+[18Oct2024 18:17:52.940] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
+java.lang.NoClassDefFoundError: org/jline/terminal/Terminal$MouseTracking
+	at org.jline.reader.impl.LineReaderImpl.doCleanup(LineReaderImpl.java:2432) ~[jline-reader-3.12.1.jar%2361!/:?]
+	at org.jline.reader.impl.LineReaderImpl.cleanup(LineReaderImpl.java:2419) ~[jline-reader-3.12.1.jar%2361!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:648) ~[jline-reader-3.12.1.jar%2361!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[jline-reader-3.12.1.jar%2361!/:?]
+	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-1.19.4-45.2.0-universal.jar%23136!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:84) ~[server-1.19.4-20230314.122934-srg.jar%23131!/:?]
+Caused by: java.lang.ClassNotFoundException: org.jline.terminal.Terminal$MouseTracking
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.6.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	... 6 more
+[18Oct2024 18:18:13.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ValterGX lost connection: Timed out
+[18Oct2024 18:18:13.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ValterGX left the game
+[18Oct2024 18:18:13.558] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
