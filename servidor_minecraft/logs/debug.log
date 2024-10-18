@@ -2303,3 +2303,20 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 [18Oct2024 19:21:38.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Oct2024 19:26:38.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Oct2024 19:26:38.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Oct2024 19:31:38.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Oct2024 19:31:38.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Oct2024 19:34:56.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Creative Mode]
+[18Oct2024 19:35:59.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya casi voy
+[18Oct2024 19:36:38.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Oct2024 19:36:38.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Oct2024 19:37:01.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> valen
+[18Oct2024 19:37:03.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> ya vi
+[18Oct2024 19:37:10.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> lo que hay dentro del cofre
+[18Oct2024 19:37:24.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no mostraste la contraseña, no?
+[18Oct2024 19:38:02.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> no
+[18Oct2024 19:38:08.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> pero no me gusto lo que habia
+[18Oct2024 19:38:15.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> el cubo de nieve con ese nombre
+[18Oct2024 19:38:26.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] JAJAJAJAJAJAJAJAJ
+[18Oct2024 19:38:37.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Spectator Mode]
+[18Oct2024 19:38:44.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Adventure Mode]
+[18Oct2024 19:38:46.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Creative Mode]
