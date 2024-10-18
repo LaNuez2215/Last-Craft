@@ -345,3 +345,25 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 [18Oct2024 19:10:51.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Creative Mode]
 [18Oct2024 19:10:59.915] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Towllino" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=83, y=64, z=-23}] too quickly!
 [18Oct2024 19:11:05.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> valen
+[18Oct2024 19:11:08.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] No.
+[18Oct2024 19:11:14.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] No lo abras
+[18Oct2024 19:11:21.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> cual es el codigo del cofre?!??!?!
+[18Oct2024 19:11:28.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Secreto
+[18Oct2024 19:11:32.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> entonces lo rompo
+[18Oct2024 19:11:33.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Oct2024 19:11:33.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Va a ser el primer desafio<--[HERE]
+[18Oct2024 19:11:37.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] espera
+[18Oct2024 19:11:43.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Es el primer desafio
+[18Oct2024 19:11:48.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> valen
+[18Oct2024 19:11:53.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> entende
+[18Oct2024 19:11:54.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> q
+[18Oct2024 19:11:57.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> hay
+[18Oct2024 19:12:02.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> 20 errores
+[18Oct2024 19:12:12.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> cada personas
+[18Oct2024 19:12:17.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Oct2024 19:12:17.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigo<--[HERE]
+[18Oct2024 19:12:24.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] amigo es instalar algo iniciar sesion
+[18Oct2024 19:12:36.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya voy, esperenme
+[18Oct2024 19:18:07.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> ok
+[18Oct2024 19:20:49.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> no hay nadie conectado @valter
+[18Oct2024 19:21:01.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Spectator Mode]
