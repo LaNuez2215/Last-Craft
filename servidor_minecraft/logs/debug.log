@@ -2299,3 +2299,7 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 [18Oct2024 19:18:07.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> ok
 [18Oct2024 19:20:49.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Towllino> no hay nadie conectado @valter
 [18Oct2024 19:21:01.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Towllino: Set own game mode to Spectator Mode]
+[18Oct2024 19:21:38.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Oct2024 19:21:38.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Oct2024 19:26:38.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Oct2024 19:26:38.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
